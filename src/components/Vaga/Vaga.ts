@@ -5,7 +5,7 @@ export const Vaga = styled.div`
   background-color: var(--cor-secundaria);
   color: var(--cor-principal);
   padding: 16px;
-  transition: all ease 0.3s;
+  transition: all ease 0.7s;
   border-radius: 8px;
 
   &:hover {

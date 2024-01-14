@@ -18,7 +18,7 @@ export const StyledForm = styled.div`
     height: 100%;
     background-color: var(--cor-principal);
     content: '';
-    opacity: 0.7;
+    opacity: 0.6;
   }
 
   @media (max-width: 768px) {
